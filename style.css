@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    text-align: center;
+    front-family: arial, sans-serif;
+    padding-top: 150px;
+
+}
+
+h1 {
+    front-size: 40px;
+    color:white;
+
+}
+
+button {
+    front-size: 25px;
+    padding: 15px 30px;
+    margin: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
